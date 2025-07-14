@@ -1,54 +1,15 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+# Portofolio Sederhana
 
-  <br />
-  <br />
+Portofolio web sederhana yang dapat dideploy di GitHub Pages.
 
-  <h2 align="center">Personal Portfolio Website</h2>
+## Cara Deploy
+1. Fork atau clone repositori ini.
+2. Ganti konten `index.html` dengan informasi Anda (nama, foto, proyek).
+3. Upload semua file ke repositori GitHub Anda.
+4. Buka **Settings > Pages** dan pilih branch `main`, lalu klik **Save**.
+5. Akses situs Anda di `https://<username>.github.io/<reponame>/`.
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
-
-### Demo Screeshots
-
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-### Run Locally
-
-To run **Portfolio** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+## Teknologi
+- HTML5
+- Tailwind CSS
+- JavaScript
